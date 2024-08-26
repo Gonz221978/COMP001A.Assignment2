@@ -1,10 +1,12 @@
+ /*Set the font and color of text used throughout the page, unless specified specifically. Along with uniform colored background.*/
 body {
     background-color: snow ;
     color: rgb(26, 24, 24);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
   }
   
+  /*Defined the color of the background and text of heading 1. Also centered the heading on the page.*/
+  /*Using the margin tool, I moved the remaining text to follow under the main heading.*/
   h1 {
     color: snow;
     background: rgb(26, 24, 24);
@@ -35,3 +37,4 @@ body {
         margin-right: 400px;
         margin-left: 500px;
     }
+     /*I want to look further into the possibilities that CSS Styling can have.*/
