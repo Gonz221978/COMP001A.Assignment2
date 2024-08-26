@@ -1,0 +1,2 @@
+Author: Ethen Gonzalez
+Purpose: Module 2 Assignment: Personal Portfolio : create a personal portfolio web page showcasing their skills, projects, and a brief biography. The portfolio should be visually appealing.
